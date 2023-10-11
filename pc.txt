@@ -1,0 +1,2 @@
+geforce; 8; intel; 80000
+radeon; 16; amd; 65000

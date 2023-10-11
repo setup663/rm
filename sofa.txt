@@ -1,0 +1,2 @@
+leather; white; 23000
+leather; brown; 32000

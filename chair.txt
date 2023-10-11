@@ -1,0 +1,2 @@
+wood; black; 12000
+metal; green; 15000
